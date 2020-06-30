@@ -75,7 +75,8 @@ def indicatriz_euler(n):
 
             return i;
 
-
+def inversa(n,mod):
+    
 
 
 
